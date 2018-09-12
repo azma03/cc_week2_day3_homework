@@ -1,0 +1,15 @@
+For your homework, please submit a text file (.txt is fine) answering the following questions in a couple of sentences each.
+
+Thinking about the program you worked on today:
+
+How similar was your plan to the final program? Did you have to digress from your plan as the program developed?
+The plan was helpful to define the initial structure of the files and specify the properties for each class. However we had to add few more methods as we progressed further in the task.
+
+Does each of your classes follow the Single Responsibility principle? Or are any of your classes doing too much?
+Yes we split the code so that the classes have single responsibility.
+
+Did you practice TDD?
+Yes we followed TDD throughout the task and it helped us to fix the issues as we were adding new features in the code.
+
+Are each of your methods tested? Did you find anything difficult to test?
+Yes we wrote tests for all the methods. 
